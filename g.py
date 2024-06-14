@@ -3,7 +3,7 @@ import math
 # Given values
 population_size = 151454 
 
-z_value = 1.96
+z_value = 1.96 
 proportion = 0.5
 margin_of_error = 0.05
 
